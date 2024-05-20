@@ -1,0 +1,6 @@
+@MyCqrsMongoApi_HostAddress = http://localhost:5198
+
+GET {{MyCqrsMongoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
